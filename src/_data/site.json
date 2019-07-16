@@ -6,6 +6,6 @@
   "authorEmail": "me@andy-bell.design",
   "authorHandle": "@andybelldesign",
   "authorName": "Andy Bell",
-  "enableThirdPartyComments": false,
+  "enableThirdPartyComments": true,
   "maxPostsPerPage": 5
 }
